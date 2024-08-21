@@ -20,5 +20,10 @@ public class EmailEnterPage {
 	{
 		return emailContinueButton();
 	}
+	
+	public WebElement emailContinueutton()
+	{
+		return emailContinueButton();
+	}
 
 }
